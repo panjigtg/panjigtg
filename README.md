@@ -1,4 +1,9 @@
-## Enggan Malas Tapi [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="35" />](https://camo.githubusercontent.com/bbeaca4ecdd74d3fde840f711ebb8a5def2ff801187623f9bc365761b3b66f86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465) 😄😄 
+<h2 style="display:flex; align-items:center; gap:8px;">
+  Enggan Malas Tapi
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="32" />
+  😄😄
+</h2>
+
  
 <!--
 **panjigtg/panjigtg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
