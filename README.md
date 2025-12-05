@@ -1,4 +1,4 @@
-## Enggan Malas Tapi <img src="https://www.php.net/images/logos/php-logo.svg" width="40" /> 😄😄
+## Enggan Malas Tapi <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="35" /> 😄😄 
  
 <!--
 **panjigtg/panjigtg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
